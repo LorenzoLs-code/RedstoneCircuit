@@ -2,6 +2,7 @@
 ## Half Adder
 |I2|I1||C|R|
 |-|-||-|-|
+|0|1||0|1|
 
 
 ## Full Adder
